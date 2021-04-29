@@ -1,0 +1,10 @@
+D:\C#_projects\Proiect_atestat\Proiect_Atestat\bin\Debug\Proiect_Atestat.exe.config
+D:\C#_projects\Proiect_atestat\Proiect_Atestat\bin\Debug\Proiect_Atestat.exe
+D:\C#_projects\Proiect_atestat\Proiect_Atestat\bin\Debug\Proiect_Atestat.pdb
+D:\C#_projects\Proiect_atestat\Proiect_Atestat\obj\Debug\Proiect_Atestat.csprojAssemblyReference.cache
+D:\C#_projects\Proiect_atestat\Proiect_Atestat\obj\Debug\Proiect_Atestat.Form1.resources
+D:\C#_projects\Proiect_atestat\Proiect_Atestat\obj\Debug\Proiect_Atestat.Properties.Resources.resources
+D:\C#_projects\Proiect_atestat\Proiect_Atestat\obj\Debug\Proiect_Atestat.csproj.GenerateResource.cache
+D:\C#_projects\Proiect_atestat\Proiect_Atestat\obj\Debug\Proiect_Atestat.csproj.CoreCompileInputs.cache
+D:\C#_projects\Proiect_atestat\Proiect_Atestat\obj\Debug\Proiect_Atestat.exe
+D:\C#_projects\Proiect_atestat\Proiect_Atestat\obj\Debug\Proiect_Atestat.pdb
